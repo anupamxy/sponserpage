@@ -9,9 +9,9 @@
   }
   
   .card {
-    margin: 70px auto;
-    width: 300px;
-    height: 300px;
+    margin: 100px auto;
+    width: 150px;
+    height: 150px;
     border-radius: 40px;
   box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
     cursor: pointer;
@@ -35,8 +35,8 @@
     text-align: center;
     border-radius: 0px 0px 40px 40px;
     font-family: sans-serif;
-    font-weight: bold;
-    font-size: 30px;
+    font-weight: small;
+    font-size: 15px;
     margin-top: -80px;
     height: 40px;
   }
@@ -56,7 +56,7 @@
   }
   body
   {
-    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/06/Animated-gif-background-hd.jpg);
+    background-image: url(https://i.ytimg.com/vi/_jhUK6NSYVM/maxresdefault.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -120,6 +120,6 @@
     margin-top: 100px;
     font-family: Dancing Script;
     color: #CAB8A6;
-    font-size: 3rem;
+    font-size: 1.5rem;
   }
 
